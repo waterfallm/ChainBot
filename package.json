@@ -2,7 +2,7 @@
     "dependencies":{  
         "bitcoin-core": "^1.2.0",
         "config": "^1.27.0",
-        "console-stamp": "^0.2.6",
+        "console-stamp": "^3.0.0",
         "discord.js": "^11.2.1",
         "mongodb": "^3.0.2",
         "needle": "^2.0.1",
